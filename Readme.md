@@ -1,6 +1,6 @@
 # 🚗 Car Sales Dashboard Analysis
 
-![Dashboard Preview](Car_Sales_Dashboard.png)
+![Dashboard Preview](Car_sales_Dashboard.png)
 
 ---
 
@@ -26,7 +26,7 @@ This project analyses car sales data using Power BI to identify key business tre
 ---
 
 ## 6. Dashboard Preview
-- **Main Dashboard:** [View Dashboard](Car_Sales_Dashboard.png)
+- **Main Dashboard:** [View Dashboard](Car_sales_Dashboard.png)
 
 ---
 
